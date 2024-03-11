@@ -1055,8 +1055,8 @@
                 <div class="col-md-6">
                     <!-- subscribe text -->
                     <div class="subscribe-text">
-                        <h5>25% Discount On Subscribtion</h5>
-                        <p>Get updates by subscribe our weekly newsletter</p>
+                        <h5>ส่วนลด 5-10% สำหรับการสมัครสมาชิก</h5>
+                        <p>รับข้อมูลอัปเดตโดยสมัครรับจดหมายข่าวรายสัปดาห์ของเรา</p>
                     </div>
                     <!-- End of subscribe text -->
                 </div>

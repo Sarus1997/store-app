@@ -11,19 +11,7 @@
                                         alt=""></a>
                             </div>
                             <div class="footer-about-text">
-                                <p>These cases are perfectly simple and easy to distin guish. In a free hour, when our
-                                    power of choice is untram melled and when nothing prevents our being able to be
-                                    circumstances and owing claim.</p>
-                            </div>
-                            <div class="footer-subscribe parsley-validate">
-                                <form
-                                    action="https://themelooks.us13.list-manage.com/subscribe/post?u=79f0b132ec25ee223bb41835f&amp;id=f4e0e93d1d"
-                                    method="post" class="footer-form" novalidate="">
-                                    <input type="email" class="theme-input-style" placeholder="your email hear"
-                                        required>
-                                    <button type="submit"><i class="fa fa-paper-plane-o"
-                                            aria-hidden="true"></i></button>
-                                </form>
+                                <p>เว็บไซต์ store-app ของเรา จำหน่ายสมาร์ทโฟน แท็บเล็ต และ อุปกรณ์เสริมอื่นๆ สามารถสั่งซื้อสินค้าได้ตลอด 24 ชั่วโมง</p>
                             </div>
                         </div>
                     </div>
@@ -34,22 +22,16 @@
                         <div class="footer-widget">
                             <!-- footer Widget heading -->
                             <div class="footer-header">
-                                <h5>About kinen</h5>
+                                <h5>เมนู</h5>
                             </div>
                             <!--End of footer Widget heading -->
                             <div class="footer-links">
                                 <ul class="links-list list-unstyled mb-0">
                                     <li>
-                                        <a href="#">About Our Company</a>
+                                        <a href="/">หน้าแรก</a>
                                     </li>
                                     <li>
-                                        <a href="#">License</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Policy Privacy</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Terms of use</a>
+                                        <a href="{{ route('about') }}">เกี่ยวกับเรา</a>
                                     </li>
                                 </ul>
                             </div>
@@ -62,22 +44,13 @@
                         <div class="footer-widget">
                             <!-- footer Widget heading -->
                             <div class="footer-header">
-                                <h5>Useful Links</h5>
+                                <h5>ลิงค์อื่นๆ</h5>
                             </div>
                             <!--End of footer Widget heading -->
                             <div class="footer-links">
                                 <ul class="links-list list-unstyled mb-0">
                                     <li>
-                                        <a href="#">Top Sellers</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Featured Items</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Discount Shop</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">New Arrivals</a>
+                                        <a href="#">FAQ</a>
                                     </li>
                                 </ul>
                             </div>
@@ -90,26 +63,22 @@
                         <div class="footer-widget">
                             <!-- footer Widget heading -->
                             <div class="footer-header">
-                                <h5>Useful Links</h5>
+                                <h5>การติดต่อ</h5>
                             </div>
                             <!--End of footer Widget heading -->
                             <div class="footer-contact-wrap">
                                 <ul class="footer-contact-list list-unstyled mb-0">
                                     <li>
                                         <span><i class="fa fa-map-marker" aria-hidden="true"></i></span>
-                                        1622 Colins Street West, Strawberry (Le), ITALY
+                                        86 ม.6 ต.นิคมพัฒนา อ.มะนัง จ.สตูล 91130 ประเทศไทย
                                     </li>
                                     <li>
                                         <span><i class="fa fa-envelope" aria-hidden="true"></i></span>
-                                        <a href="info@emailname.com">Email: info@emailname.com</a>
+                                        <a href="mailto:saharat.rus@mail.com">อีเมล: saharat.rus@mail.com</a>
                                     </li>
                                     <li>
                                         <span><i class="fa fa-phone" aria-hidden="true"></i></span>
-                                        <a href="+006543219874">Phone: +00 654 321 9874</a>
-                                    </li>
-                                    <li>
-                                        <span><i class="fa fa-clock-o" aria-hidden="true"></i></span>
-                                        Monday - Saturday:9:00 - 18:00 pm
+                                        <a href="tel:+0869728283">เบอร์โทร: 086 9728283</a>
                                     </li>
                                 </ul>
                             </div>
@@ -120,16 +89,13 @@
                                         <a href="#"><i class="fa fa-facebook"></i></a>
                                     </li>
                                     <li>
+                                        <a href="#"><i class="fa fa-instagram"></i></a>
+                                    </li>
+                                    <li>
                                         <a href="#"><i class="fa fa-twitter"></i></a>
                                     </li>
                                     <li>
-                                        <a href="#"><i class="fa fa-pinterest"></i></a>
-                                    </li>
-                                    <li>
                                         <a href="#"><i class="fa fa-linkedin"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fa fa-google-plus"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -147,17 +113,12 @@
                         <div class="footer-bottom-wrap">
                             <!-- copyright text -->
                             <div class="copyright-text">
-                                <p>© 2018 <a href="#">ThemeLooks</a> All rights reserved</p>
+                                <p>© 2024 <a href="#"> Rights </a> Reserved</p>
                             </div>
                             <!-- End of copyright text -->
 
                             <!-- tarms and condition -->
                             <div class="trams-conditaion">
-                                <ul class="list-unstyled mb-0">
-                                    <li><a href="#">License</a></li>
-                                    <li><a href="#">Policy Privacy</a></li>
-                                    <li><a href="#">Terms of use</a></li>
-                                </ul>
                             </div>
                             <!-- End of tarms and condition -->
                         </div>
