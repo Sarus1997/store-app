@@ -285,14 +285,9 @@
                                                     </div>
 
                                                     <!-- product info -->
-                                                    <div class="product-info">
+                                                    <div class="product-info text">
                                                         <div class="product-price">
                                                             <h5>$30.1</h5>
-                                                        </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
                                                         </div>
                                                     </div>
                                                     <!-- End of product info -->
@@ -370,25 +365,12 @@
                                                             <h4><a href="shop-details.html">Copley Dining Chair</a></h4>
                                                         </div>
                                                         <!-- end of product title -->
-
-                                                        <!-- discount tag -->
-                                                        <div class="product-tag discount-tag">
-                                                            <div class="tag-text">
-                                                                <span>-20%</span>
-                                                            </div>
-                                                        </div>
-                                                        <!-- End of discount tag -->
                                                     </div>
 
                                                     <!-- product info -->
                                                     <div class="product-info">
                                                         <div class="product-price">
                                                             <h5>$24.1</h5>
-                                                        </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
                                                         </div>
                                                     </div>
                                                     <!-- End of product info -->
@@ -473,11 +455,6 @@
                                                         <div class="product-price">
                                                             <h5>$32</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -559,11 +536,6 @@
                                                     <div class="product-info">
                                                         <div class="product-price">
                                                             <h5>$10</h5>
-                                                        </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
                                                         </div>
                                                     </div>
                                                     <!-- End of product info -->
@@ -655,11 +627,6 @@
                                                         <div class="product-price">
                                                             <h5>$17</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -750,11 +717,6 @@
                                                         <div class="product-price">
                                                             <h5>$19</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -837,11 +799,6 @@
                                                         <div class="product-price">
                                                             <h5>$38</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -923,11 +880,6 @@
                                                     <div class="product-info">
                                                         <div class="product-price">
                                                             <h5>$08</h5>
-                                                        </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
                                                         </div>
                                                     </div>
                                                     <!-- End of product info -->
@@ -1012,11 +964,6 @@
                                                     <div class="product-info">
                                                         <div class="product-price">
                                                             <h5>$30.1</h5>
-                                                        </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
                                                         </div>
                                                     </div>
                                                     <!-- End of product info -->
@@ -1109,11 +1056,6 @@
                                                         <div class="product-price">
                                                             <h5>$24.1</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -1197,11 +1139,6 @@
                                                         <div class="product-price">
                                                             <h5>$32</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -1283,11 +1220,6 @@
                                                     <div class="product-info">
                                                         <div class="product-price">
                                                             <h5>$10</h5>
-                                                        </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
                                                         </div>
                                                     </div>
                                                     <!-- End of product info -->
@@ -1378,11 +1310,6 @@
                                                         <div class="product-price">
                                                             <h5>$30.1</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -1474,11 +1401,6 @@
                                                         <div class="product-price">
                                                             <h5>$24.1</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -1562,11 +1484,6 @@
                                                         <div class="product-price">
                                                             <h5>$32</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -1648,11 +1565,6 @@
                                                     <div class="product-info">
                                                         <div class="product-price">
                                                             <h5>$10</h5>
-                                                        </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
                                                         </div>
                                                     </div>
                                                     <!-- End of product info -->
@@ -1745,11 +1657,6 @@
                                                         <div class="product-price">
                                                             <h5>$17</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -1841,11 +1748,6 @@
                                                         <div class="product-price">
                                                             <h5>$19</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -1929,11 +1831,6 @@
                                                         <div class="product-price">
                                                             <h5>$38</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -2016,11 +1913,6 @@
                                                     <div class="product-info">
                                                         <div class="product-price">
                                                             <h5>$08</h5>
-                                                        </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
                                                         </div>
                                                     </div>
                                                     <!-- End of product info -->
@@ -2106,11 +1998,6 @@
                                                     <div class="product-info">
                                                         <div class="product-price">
                                                             <h5>$30.1</h5>
-                                                        </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
                                                         </div>
                                                     </div>
                                                     <!-- End of product info -->
@@ -2204,11 +2091,6 @@
                                                         <div class="product-price">
                                                             <h5>$24.1</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -2293,11 +2175,6 @@
                                                         <div class="product-price">
                                                             <h5>$32</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -2380,11 +2257,6 @@
                                                     <div class="product-info">
                                                         <div class="product-price">
                                                             <h5>$10</h5>
-                                                        </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
                                                         </div>
                                                     </div>
                                                     <!-- End of product info -->
@@ -2475,11 +2347,6 @@
                                                         <div class="product-price">
                                                             <h5>$30.1</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -2572,11 +2439,6 @@
                                                         <div class="product-price">
                                                             <h5>$24.1</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -2661,11 +2523,6 @@
                                                         <div class="product-price">
                                                             <h5>$32</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -2748,11 +2605,6 @@
                                                     <div class="product-info">
                                                         <div class="product-price">
                                                             <h5>$10</h5>
-                                                        </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
                                                         </div>
                                                     </div>
                                                     <!-- End of product info -->
@@ -2845,11 +2697,6 @@
                                                         <div class="product-price">
                                                             <h5>$17</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -2941,11 +2788,6 @@
                                                         <div class="product-price">
                                                             <h5>$19</h5>
                                                         </div>
-                                                        <div class="product-rating">
-                                                            <div class="star-rating">
-                                                                <span></span>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <!-- End of product info -->
                                                 </div>
@@ -3026,11 +2868,6 @@
                                                         <div class="col-md-7">
                                                             <!-- product info -->
                                                             <div class="product-info">
-                                                                <div class="product-rating">
-                                                                    <div class="star-rating">
-                                                                        <span></span>
-                                                                    </div>
-                                                                </div>
 
                                                                 <!-- product title -->
                                                                 <div class="product-title">
@@ -3135,12 +2972,6 @@
                                                         <div class="col-md-7">
                                                             <!-- product info -->
                                                             <div class="product-info">
-                                                                <div class="product-rating">
-                                                                    <div class="star-rating">
-                                                                        <span></span>
-                                                                    </div>
-                                                                </div>
-
                                                                 <!-- product title -->
                                                                 <div class="product-title">
                                                                     <h4><a href="shop-details.html">Copley Upholstered
@@ -3244,11 +3075,6 @@
                                                         <div class="col-md-7">
                                                             <!-- product info -->
                                                             <div class="product-info">
-                                                                <div class="product-rating">
-                                                                    <div class="star-rating">
-                                                                        <span></span>
-                                                                    </div>
-                                                                </div>
 
                                                                 <!-- product title -->
                                                                 <div class="product-title">
@@ -3353,11 +3179,6 @@
                                                         <div class="col-md-7">
                                                             <!-- product info -->
                                                             <div class="product-info">
-                                                                <div class="product-rating">
-                                                                    <div class="star-rating">
-                                                                        <span></span>
-                                                                    </div>
-                                                                </div>
 
                                                                 <!-- product title -->
                                                                 <div class="product-title">
@@ -3462,11 +3283,6 @@
                                                         <div class="col-md-7">
                                                             <!-- product info -->
                                                             <div class="product-info">
-                                                                <div class="product-rating">
-                                                                    <div class="star-rating">
-                                                                        <span></span>
-                                                                    </div>
-                                                                </div>
 
                                                                 <!-- product title -->
                                                                 <div class="product-title">
@@ -3571,11 +3387,6 @@
                                                         <div class="col-md-7">
                                                             <!-- product info -->
                                                             <div class="product-info">
-                                                                <div class="product-rating">
-                                                                    <div class="star-rating">
-                                                                        <span></span>
-                                                                    </div>
-                                                                </div>
 
                                                                 <!-- product title -->
                                                                 <div class="product-title">
