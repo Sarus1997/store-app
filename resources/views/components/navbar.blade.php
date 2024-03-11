@@ -25,110 +25,22 @@
                                         <div id="menu-button">
                                         </div>
                                         <ul>
-                                            <li class="active"><a href="#">Home</a>
-                                                <ul>
-                                                    <li><a href="index.html">Home Version 01</a></li>
-                                                    <li><a href="index-2.html">Home Version 02</a></li>
-                                                    <li class="active"><a href="index-3.html">Home Version 03</a></li>
-                                                    <li><a href="index-4.html">Home Version 04</a></li>
-                                                </ul>
-                                            </li>
+                                            <li><a href="{{ route('index') }}">Home</a></li>
                                             <li>
                                                 <a href="#">Shop</a>
                                                 <ul>
-                                                    <li><a href="#">Shop Details</a>
-                                                        <ul>
-                                                            <li><a href="shop-details.html">Shop Details</a></li>
-                                                            <li><a href="shop-details-withbar.html">Shop details with
-                                                                    sidebar</a></li>
-                                                            <li><a href="shop-details-download.html">Shop Details
-                                                                    Download</a></li>
-                                                            <li><a href="shop-details-external.html">Shop Details
-                                                                    External</a></li>
-                                                            <li><a href="shop-details-grouped.html">Shop Details
-                                                                    Grouped</a></li>
-                                                            <li><a href="shop-details-onsale.html">Shop Details
-                                                                    onsale</a></li>
-                                                            <li><a href="shop-details-outstck.html">Shop Details
-                                                                    Outstck</a></li>
-                                                            <li><a href="shop-details-variable.html">Shop Details
-                                                                    Variable</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="shop-2col.html">Shop 2 Column</a></li>
-                                                    <li><a href="shop-2col-withbar.html">Shop 2Col with sidebar</a></li>
-                                                    <li><a href="{{ route('shop') }}">Shop 3 Column</a></li>
-                                                    <li><a href="shop-3col-withbar.html">Shop 3Col with sidebar</a></li>
-                                                    <li><a href="shop-4col.html">Shop 4 Column</a></li>
-                                                    <li><a href="shop-4col-withbar.html">Shop 4Col with sidebar</a></li>
-                                                    <li><a href="shop-5col.html">Shop 5 Column</a></li>
-                                                    <li><a href="shop-6col.html">Shop 6 Column</a></li>
-                                                    <li><a href="shop-masonary.html">Shop Masonary</a></li>
-                                                    <li><a href="shop-minimal.html">Shop minimal</a></li>
-                                                    <li><a href="shop-carousel.html">Shop Carousel</a></li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <a href="#">Catagories</a>
-                                                <ul>
-                                                    <li><a href="categories-page1.html">Categories 1</a></li>
-                                                    <li><a href="categories-page2.html">Categories 2</a></li>
-                                                    <li><a href="categories-page3.html">Categories 3</a></li>
-                                                    <li><a href="categories-page4.html">Categories 4</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="#">collection</a>
-                                                <ul>
-                                                    <li><a href="collection-page1.html">Collection 1</a></li>
-                                                    <li><a href="collection-page2.html">Collection 2</a></li>
-                                                    <li><a href="collection-page3.html">Collection 3</a></li>
-                                                    <li><a href="collection-page4.html">Collection 4</a></li>
+                                                    <li><a href="{{ route('smartphone') }}">Smartphone</a></li>
+                                                    <li><a href="{{ route('tablet') }}">Tablet</a></li>
+                                                    <li><a href="{{ route('accessories') }}">Accessories</a></li>
                                                 </ul>
                                             </li>
                                             <li>
                                                 <a href="#">Pages</a>
                                                 <ul>
-                                                    <li><a href="about.html">About</a></li>
-                                                    <li><a href="cart-list.html">Cart List</a></li>
-                                                    <li><a href="checkout.html">Check Out</a></li>
-                                                    <li><a href="wish-list.html">Wish List</a></li>
-                                                    <li><a href="faq.html">FAQ</a></li>
-                                                    <li><a href="myaccount.html">My Account</a></li>
-                                                    <li><a href="order-tracking.html">Order Tracking</a></li>
-                                                    <li><a href="search-result.html">Search Results</a></li>
-                                                    <li><a href="logout.html">Log Out</a></li>
-                                                    <li><a href="#">Coming Soon</a>
-                                                        <ul>
-                                                            <li><a href="comming-soon.html">Coming Soon 01</a></li>
-                                                            <li><a href="comming-soon2.html">Coming Soon 02</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="#">404 Page</a>
-                                                        <ul>
-                                                            <li><a href="error1.html">404 Page 1</a></li>
-                                                            <li><a href="error2.html">404 Page 2</a></li>
-                                                            <li><a href="error3.html">404 Page 3</a></li>
-                                                        </ul>
-                                                    </li>
+                                                    <li><a href="{{ route('about') }}">About</a></li>
                                                 </ul>
                                             </li>
-                                            <li>
-                                                <a href="#">Blog</a>
-                                                <ul>
-                                                    <li><a href="blog-2clumn.html">Blog Layout</a></li>
-
-                                                    <li><a href="blog-2clumn-withbar.html">Blog Right Sidebar</a></li>
-                                                    <li><a href="blog-pinterest.html">Blog Pinterest</a></li>
-                                                    <li><a href="blog-pinterest-withbar.html">Blog Pinterest with
-                                                            Sidebar</a></li>
-                                                    <li><a href="blog-list.html">Blog list</a></li>
-                                                    <li><a href="blog-list-withbar.html">Blog list with Sidebar</a></li>
-                                                    <li><a href="blog-details-withbar.html">Blog Details With
-                                                            Sidebar</a></li>
-                                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="{{ route('contact') }}">Contact</a></li>
                                         </ul>
                                     </div>
                                     <!-- End of Header-menu -->
@@ -140,13 +52,6 @@
                         <!-- modal menu -->
                         <div class="modal-menu-container">
                             <ul class="list-unstyled mb-0">
-                                <li>
-                                    <div class="search-btn" title="search">
-                                        <a href="#">
-                                            <img src="img/icons/search-button.svg" alt="" class="svg">
-                                        </a>
-                                    </div>
-                                </li>
                                 <li>
                                     <div class="cart-btn" title="Cart list">
                                         <a href="login.html">
@@ -168,14 +73,6 @@
                                         </a>
                                     </div>
                                 </li>
-                                <li>
-                                    <div class="menu-btn" title="Category menu">
-                                        <a href="#">
-                                            <img src="img/icons/manu-button.svg" alt=""
-                                                class="svg">
-                                        </a>
-                                    </div>
-                                </li>
                             </ul>
                         </div>
                         <!-- End of modal menu -->
@@ -185,112 +82,6 @@
         </div>
     </header>
     <!-- End of main header -->
-
-    <!-- Catagory menu -->
-    <div class="slidenav catagory-menu">
-        <div class="menu-navigation">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col">
-                        <div class="catagory-menu-header d-flex  align-items-center">
-                            <div class="logo">
-                                <a href="index.html"><img class='default-logo' src="img/logo.png"
-                                        data-rjs="2" alt="ecommerce"></a>
-                            </div>
-                            <div class="menu-cancel">
-                                <img src="img/icons/close-button.svg" class="svg" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 offset-md-2">
-                        <div class="search-bar primary-form parsley-validate">
-                            <form action="#">
-                                <input type="text" class="theme-input-style" placeholder="Type Your Search Here"
-                                    required>
-                                <input type="submit" class="search-icon" value="&#xF002;">
-                            </form>
-                        </div>
-                    </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-lg-10 col-md-12 offset-lg-1">
-                        <div class="catagory-menu-wrap">
-                            <nav>
-                                <ul class="list-unstyled">
-                                    <li><a href="#">Men</a>
-                                        <span><img src="img/icons/man.svg" class="svg"
-                                                alt=""></span>
-                                        <ul>
-                                            <li><a href="#">Top Wear</a></li>
-                                            <li><a href="#">Bottom Wear</a></li>
-                                            <li><a href="#">Foot Wear</a></li>
-                                            <li><a href="#">Inner Wear</a></li>
-                                            <li><a href="#">Traditional Wear</a></li>
-                                            <li><a href="#">Watch</a></li>
-                                            <li><a href="#">Accessoriesear</a></li>
-                                            <li><a href="#">Watch</a></li>
-                                            <li><a href="#">Accessoriesear</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">Women</a>
-                                        <span><img src="img/icons/woman.svg" class="svg"
-                                                alt=""></span>
-                                        <ul>
-                                            <li><a href="#">Kurti & Fatua</a></li>
-                                            <li><a href="#">Salwar Kameez</a></li>
-                                            <li><a href="#">Boutique Dress</a></li>
-                                            <li><a href="#">Saree</a></li>
-                                            <li><a href="#">Gown</a></li>
-                                            <li><a href="#">Lehenga</a></li>
-                                            <li><a href="#">Palazzo</a></li>
-                                            <li><a href="#">Kurti & Fatua</a></li>
-                                            <li><a href="#">Salwar Kameez</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">Kids</a>
-                                        <span><img src="img/icons/kid.svg" class="svg"
-                                                alt=""></span>
-                                        <ul>
-                                            <li><a href="#">Gear & Activity</a></li>
-                                            <li><a href="#">Baby Carriers</a></li>
-                                            <li><a href="#">Nursery</a></li>
-                                            <li><a href="#">Diapering</a></li>
-                                            <li><a href="#">Nursing & Feeding</a></li>
-                                            <li><a href="#">Baby Toys</a></li>
-                                            <li><a href="#">Bath & Potty</a></li>
-                                            <li><a href="#">Health & Safety</a></li>
-                                            <li><a href="#">Baby Clothing</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">Home Decor</a>
-                                        <span><img src="img/icons/home-dec.svg" class="svg"
-                                                alt=""></span>
-                                        <ul>
-                                            <li><a href="#">Smart Home</a></li>
-                                            <li><a href="#">Bath</a></li>
-                                            <li><a href="#">Bedding</a></li>
-                                            <li><a href="#">Furniture</a></li>
-                                            <li><a href="#">Home Appliances</a></li>
-                                            <li><a href="#">Home Improvement</a></li>
-                                            <li><a href="#">Kids' Home</a></li>
-                                            <li><a href="#">Kitchen & Dining</a></li>
-                                            <li><a href="#">Lamps & Lighting</a></li>
-                                            <li><a href="#">Luggage</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </nav>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End of Catagory menu -->
 
     <!-- offcanvas menu-->
 
@@ -389,20 +180,6 @@
                     <a href="#" class='btn btn-fill-type'>Check Out</a>
                     <p>Free Shipping on All Orders Over $100!</p>
                 </div>
-                <div class="cart-support">
-                    <p class="roboto">Support</p>
-                    <ul class="list-unstyled">
-                        <li>
-                            <span><i class="fa fa-phone"></i></span>
-                            Phone: +00 654 321 9874
-                        </li>
-                        <li>
-                            <span><i class="fa fa-map-marker"></i></span>
-                            1622 Colins Street West, Strawberry (Le), ITALY
-                        </li>
-                    </ul>
-                </div>
-                <!-- add to button an support -->
             </div>
         </div>
     </div>
@@ -477,20 +254,6 @@
                 <a href="#" class='btn btn-fill-type'>Check Out</a>
                 <p>Free Shipping on All Orders Over $100!</p>
             </div>
-            <div class="cart-support">
-                <p class="roboto">Support</p>
-                <ul class="list-unstyled">
-                    <li>
-                        <span><i class="fa fa-phone"></i></span>
-                        Phone: +00 654 321 9874
-                    </li>
-                    <li>
-                        <span><i class="fa fa-map-marker"></i></span>
-                        1622 Colins Street West, Strawberry (Le), ITALY
-                    </li>
-                </ul>
-            </div>
-            <!-- add to button an support -->
         </div>
     </div>
     <!-- End of cart list -->
@@ -583,21 +346,6 @@
             </div>
             <!-- End of login register -->
 
-            <!-- add to button an support -->
-            <div class="cart-support">
-                <p class="roboto">Support</p>
-                <ul class="list-unstyled">
-                    <li>
-                        <span><i class="fa fa-phone"></i></span>
-                        Phone: +00 654 321 9874
-                    </li>
-                    <li>
-                        <span><i class="fa fa-map-marker"></i></span>
-                        1622 Colins Street West, Strawberry (Le), ITALY
-                    </li>
-                </ul>
-            </div>
-            <!-- add to button an support -->
         </div>
     </div>
     <!-- End of log in and ragister -->

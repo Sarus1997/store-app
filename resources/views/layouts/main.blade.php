@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <!-- Document Title -->
-    <title>Ecommerce</title>
+    <title>Store-app</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/png" href="favicon.png">
