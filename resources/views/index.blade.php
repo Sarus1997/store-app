@@ -7,22 +7,21 @@
         <div class="slider-inner-wrap">
             <div class="owl-carousel banner-carousel1">
                 <!-- single slider wrap -->
-                <div class="single-slider-wrap" data-bg-img='img/banner/bannar1-img1.png'>
+                <div class="single-slider-wrap" data-bg-img='img/banner/apple-ww.gif' style="width: 100%; height: 920px;" >
                     <div class="container">
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="banner-image" data-trigger="parallax_layers">
-                                    <img src="img/banner/chare.png" alt="" data-depth="0.5">
+                                    <img src="img/banner/apple-ip15.png" style="width: 401px; height: 401px;" alt="" data-depth="0.5">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <!-- slider text -->
                                 <div class="single-slider-text">
-                                    <span><a href="shop-details.html">#furniture</a></span>
-                                    <h1>Smart Wooden Chair</h1>
-                                    <p>It is a long established fact that a reader will be distracted by the readable
+                                    <h1 style="color: aliceblue">IPhone 15 Pro Max</h1>
+                                    <p style="color: aliceblue">It is a long established fact that a reader will be distracted by the readable
                                         content of page at its layout.</p>
-                                    <a href="#" class="btn">Browse All Furnitures</a>
+                                    <a href="#" class="btn" style="color: rgb(225, 23, 57)">Browse All Furnitures</a>
                                 </div>
                                 <!-- End of slider text -->
                             </div>
@@ -32,20 +31,19 @@
                 <!-- single slider wrap -->
 
                 <!-- single slider wrap -->
-                <div class="single-slider-wrap" data-bg-img='img/banner/bannar1-img2.png'>
+                <div class="single-slider-wrap" data-bg-img='img/banner/ss-s24x.gif' style="width: 100%; height: 920px;">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="banner-image" data-trigger="parallax_layers">
-                                    <img src="img/banner/bag.png" alt="" data-depth="0.5">
+                                    <img src="img/banner/ss-s24.png" style="width: 401px; height: 401px;" alt="" data-depth="0.5">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <!-- slider text -->
                                 <div class="single-slider-text">
-                                    <span><a href="shop-details.html">#travelbag</a></span>
-                                    <h1>Davis Travel Bag</h1>
-                                    <p>It is a long established fact that a reader will be distracted by the readable
+                                    <h1 style="color: aliceblue">Buy SAMSUNG Galaxy S24 Ultra 5G</h1>
+                                    <p style="color: aliceblue">It is a long established fact that a reader will be distracted by the readable
                                         content of page at its layout.</p>
                                     <a href="#" class="btn">Browse All Bags</a>
                                 </div>
@@ -57,19 +55,18 @@
                 <!-- single slider wrap -->
 
                 <!-- single slider wrap -->
-                <div class="single-slider-wrap" data-bg-img='img/banner/bannar1-img3.png'>
+                <div class="single-slider-wrap" data-bg-img='img/banner/xm-12.gif' style="width: 100%; height: 920px;">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="banner-image" data-trigger="parallax_layers">
-                                    <img src="img/banner/lamp.png" alt="" data-depth="0.5">
+                                    <img src="img/banner/xm-13t.png" style="width: 401px; height: 401px;" alt="" data-depth="0.5">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <!-- slider text -->
                                 <div class="single-slider-text">
-                                    <span><a href="shop-details.html">#homedecor</a></span>
-                                    <h1>Outdoor Table Lamp</h1>
+                                    <h1>Xiaomi 14 Pro</h1>
                                     <p>It is a long established fact that a reader will be distracted by the readable
                                         content of page at its layout.</p>
                                     <a href="#" class="btn">Browse All Home Decor</a>
